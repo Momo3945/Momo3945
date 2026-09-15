@@ -10,7 +10,8 @@ researching diffusion models for medical imaging.*
 - **[few-shot-scanner-stain-norm](https://github.com/Momo3945/few-shot-scanner-stain-norm)** — few-shot H&E stain normalisation across scanners (Aperio↔Hamamatsu), built on a frozen SD1.5 base with a colour LoRA, ControlNet, and LCM-LoRA. BSc Honours research project, supervised by Richard Klein.
 - **[Robotics](https://github.com/Momo3945/Robotics)** — SurveillanceBot: a ROS-based robot that maps its environment, builds an occupancy grid, and navigates to user-given (x, y) coordinates using A* path planning and a proportional waypoint controller. Honours robotics assignment.
 - **[minimax-h3-lora-studio](https://github.com/Momo3945/minimax-h3-lora-studio)** — Colab notebooks for LoRA training and inference on MiniMax-H3 (image-to-video), built on DiffSynth-Studio, pinned to verified upstream commits.
+- **[GlobeTalk](https://github.com/MuaazBayat/software-design-project)** — final-year Software Design Project: a pen-pal matching and messaging platform, built as a microservices monorepo (Next.js frontend, FastAPI core/matchmaking/messaging/moderation services). Team project.
 
 ---
 
-`Python` `PyTorch` `ROS` `C#`
+`Python` `PyTorch` `ROS` `TypeScript` `C#`
